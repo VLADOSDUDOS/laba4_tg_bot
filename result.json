@@ -1,0 +1,80 @@
+{
+    "0": {
+        "full_name": "Demon Eater",
+        "price": 1570,
+        "image_url": "https://cdn.dota2.net//item/Demon%20Eater/100.png",
+        "url": "https://market.dota2.net/item/606175608-5094583792-Demon%20Eater/"
+    },
+    "1": {
+        "full_name": "Swine of the Sunken Galley",
+        "price": 1570.91,
+        "image_url": "https://cdn.dota2.net//item/Swine%20of%20the%20Sunken%20Galley/100.png",
+        "url": "https://market.dota2.net/item/582784024-5084753137-Swine%20of%20the%20Sunken%20Galley/"
+    },
+    "2": {
+        "full_name": "Frost Avalanche",
+        "price": 1593.99,
+        "image_url": "https://cdn.dota2.net//item/Frost%20Avalanche/100.png",
+        "url": "https://market.dota2.net/item/836384700-5181622021-Frost%20Avalanche/"
+    },
+    "3": {
+        "full_name": "Fractal Horns of Inner Abysm",
+        "price": 1900,
+        "image_url": "https://cdn.dota2.net//item/Fractal%20Horns%20of%20Inner%20Abysm/100.png",
+        "url": "https://market.dota2.net/item/342651391-5405987610-Fractal%20Horns%20of%20Inner%20Abysm/"
+    },
+    "4": {
+        "full_name": "Fiery Soul of the Slayer",
+        "price": 1929.53,
+        "image_url": "https://cdn.dota2.net//item/Fiery%20Soul%20of%20the%20Slayer/100.png",
+        "url": "https://market.dota2.net/item/131957931-5640756469-Fiery%20Soul%20of%20the%20Slayer/"
+    },
+    "5": {
+        "full_name": "Bladeform Legacy",
+        "price": 1930,
+        "image_url": "https://cdn.dota2.net//item/Bladeform%20Legacy/100.png",
+        "url": "https://market.dota2.net/item/2209559676-5639475772-Bladeform%20Legacy/"
+    },
+    "6": {
+        "full_name": "Feast of Abscession",
+        "price": 1931.96,
+        "image_url": "https://cdn.dota2.net//item/Feast%20of%20Abscession/100.png",
+        "url": "https://market.dota2.net/item/2777494242-5367302638-Feast%20of%20Abscession/"
+    },
+    "7": {
+        "full_name": "Manifold Paradox",
+        "price": 1935.28,
+        "image_url": "https://cdn.dota2.net//item/Manifold%20Paradox/100.png",
+        "url": "https://market.dota2.net/item/644964380-5367318755-Manifold%20Paradox/"
+    },
+    "8": {
+        "full_name": "Great Sage's Reckoning",
+        "price": 1998.13,
+        "image_url": "https://cdn.dota2.net//item/Great%20Sage's%20Reckoning/100.png",
+        "url": "https://market.dota2.net/item/2085579067-5638805073-Great%20Sage's%20Reckoning/"
+    },
+    "9": {
+        "full_name": "The Magus Cypher",
+        "price": 2239.95,
+        "image_url": "https://cdn.dota2.net//item/The%20Magus%20Cypher/100.png",
+        "url": "https://market.dota2.net/item/3119020548-5638331947-The%20Magus%20Cypher/"
+    },
+    "10": {
+        "full_name": "Tempest Helm of the Thundergod",
+        "price": 2240,
+        "image_url": "https://cdn.dota2.net//item/Tempest%20Helm%20of%20the%20Thundergod/100.png",
+        "url": "https://market.dota2.net/item/1441173253-4183302315-Tempest%20Helm%20of%20the%20Thundergod/"
+    },
+    "11": {
+        "full_name": "Blades of Voth Domosh",
+        "price": 2399.97,
+        "image_url": "https://cdn.dota2.net//item/Blades%20of%20Voth%20Domosh/100.png",
+        "url": "https://market.dota2.net/item/253037326-4962981661-Blades%20of%20Voth%20Domosh/"
+    },
+    "12": {
+        "full_name": "Flockheart's Gamble",
+        "price": 2454.63,
+        "image_url": "https://cdn.dota2.net//item/Flockheart's%20Gamble/100.png",
+        "url": "https://market.dota2.net/item/3631765758-5640769085-Flockheart's%20Gamble/"
+    }
+}
