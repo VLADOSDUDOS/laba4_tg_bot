@@ -22,7 +22,7 @@ async def start_handler(message: types.Message):
     keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(start_button)
 
-    await message.answer('Давайте начнём!\n', reply_markup=keyboard)
+    await message.answer('Давайте начнём! Нажмите кнопку "Найти арканы", для того, чтобы этот бот начал поиск самых дешёвых аркан, которые есть на сайте Market Dota2.\n', reply_markup=keyboard)
 
 
 
